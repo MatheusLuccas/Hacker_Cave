@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stop_temporary
+  - fatal_zone
+  - stop_for_a_time
+  - chat
+  - solve_chat
+  - active_chat
+  - code_logic
+  - BoxCommand
+  - path1
+  - path2
+  - path3
+  - path4
+  - walker
+  - active_interation
+  - minimize_button
+  - trap_bar
+  - change_way
+  - path5
+  - path6
+  - path7
+  - path8
+  - path9
+  - path10
+  - count_it
+  - vanish_guide
+  - start_guide
+  - stop_guide
+  - warn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - menu
+  - gameovermsg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
